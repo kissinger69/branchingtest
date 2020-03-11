@@ -19,6 +19,7 @@ ul {
     text-align: center;
 }
 .Objectives {
-    background-color:white
-    cornflowerblue
+    background-color:white;
+    font-size: em;
+    color: darkgrey;
 }
