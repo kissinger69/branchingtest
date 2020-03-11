@@ -1,0 +1,23 @@
+h1 {
+    color:navajowhite;
+    font-size: xx-large;
+    text-align: center;
+}
+h2 {
+    color:brown;
+    font-size: medium;
+}
+p {
+    color: burlywood;
+    font-style: italic;
+    text-align-last: center;
+}
+ul {
+    background-color: chocolate;
+    color:black;
+    font-stretch: ultra-expanded;
+    text-align: center;
+}
+.Objectives {
+    background-color:white
+}
